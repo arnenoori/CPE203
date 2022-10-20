@@ -1,0 +1,8 @@
+All the various create functions can be put in multiple classes
+(createHouse, createObstacle, createTree, create Stump, createSapling, createFairy, createDudeNotFull, createDudeFull)
+
+(1) I choose the WorldModel class to put these functions.
+
+(2) I wanted to group it with the parsing functions, which I guess could also be in the ImageStore function.
+Creating the entities in the WorldModel class rather than the Entity class just made more intuitive sense to me.
+Since the enities are created in the WorldModel, it's just one less extra step.

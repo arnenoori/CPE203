@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lab8helper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab-8/lab8helper.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
